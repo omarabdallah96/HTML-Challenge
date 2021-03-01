@@ -9,7 +9,7 @@ height: 100%;
         max-width: 900px;
         height: 100%;
         margin: auto;
-        background: rgb(187, 81, 81);
+        background: #2980b9;
         padding: 20px;
         block-size: max-content;
         
@@ -29,7 +29,7 @@ h1  {
 background-color: black;
 overflow: auto;
 white-space: nowrap;
-width: 60%;
+width: 100%;
 margin: auto;
 
 
@@ -45,10 +45,10 @@ margin: auto;
  }
 
  div a:hover{
-     background-color: olivedrab;
+     background-color: red;
  }
 
 footer > a:hover {
-background-color: slateblue;
+background-color: red;
 }
 
