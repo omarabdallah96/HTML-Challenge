@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    font-weight: normal;
+    font-size: medium;
+height: 100%;
+      }
+      .page-center {
+        
+        max-width: 900px;
+        height: 100%;
+        margin: auto;
+        background: rgb(187, 81, 81);
+        padding: 20px;
+        block-size: max-content;
+        
+
+}
+
+h1  {
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+   text-align:  center;
+    
+}
+ 
+ .menu {
+background-color: black;
+overflow: auto;
+white-space: nowrap;
+width: 60%;
+margin: auto;
+
+
+
+ }
+ div a {
+    
+ display: inline-block;
+  color: oldlace;
+  text-align: center;
+  padding: 20px 45px; 
+  align-content: center;
+ }
+
+ div a:hover{
+     background-color: olivedrab;
+ }
+
+footer > a:hover {
+background-color: slateblue;
+}
+
